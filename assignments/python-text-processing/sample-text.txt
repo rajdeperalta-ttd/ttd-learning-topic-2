@@ -1,0 +1,5 @@
+Python is fun.
+Python is practical.
+Text processing in Python helps automate repetitive tasks.
+When you clean, transform, and analyze text, you can discover useful patterns.
+Python makes text processing approachable for beginners.

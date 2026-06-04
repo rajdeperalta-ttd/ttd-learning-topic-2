@@ -21,8 +21,8 @@ When generating content for this project:
 - **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
 - **Student-friendly**: Use clear, encouraging language that motivates students
 
-## Git
-- Use semantic commit messages to clearly indicate the purpose of each commit. Follow given format: `<type>(<scope>): <description>`  
+## Git Guidelines
+- Use semantic commit messages to clearly indicate the purpose of each commit. Follow given format strictly: `<type>(<scope>): <description>`  
 - Use the following scopes for commit messages:
   - `assignments`: Documentation changes
   - `assets`: Changes to CSS, JavaScript, images, or configuration files
