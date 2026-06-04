@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-inheritance",
+      "title": "Python Inheritance and Polymorphism",
+      "description": "Learn class hierarchies, inheritance, and polymorphism by building a shape system with Circle and Rectangle classes",
+      "path": "assignments/python-inheritance",
+      "dueDate": "2026-06-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
